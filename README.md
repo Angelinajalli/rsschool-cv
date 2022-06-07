@@ -1,2 +1,1 @@
-# rsschool-cv
-https://angelinajalli.io/rsschool-cv/cv
+https://angelinajalli.github.io/rsschool-cv/cv
